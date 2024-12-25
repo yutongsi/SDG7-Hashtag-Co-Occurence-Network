@@ -20,7 +20,7 @@ This repository contains code and resources for analyzing the co-occurrence netw
 
 **Prerequisites:**  
    - Ensure you have access to the required programming environments (e.g., Jupyter Notebook for P.1 and P.2, R for P.3).  
-   - Install the necessary dependencies (e.g., Tweepy, igraph).
+   - Install the necessary dependencies (e.g., Twarc2, igraph).
 
 
 ### Notes
